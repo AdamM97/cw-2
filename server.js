@@ -80,6 +80,6 @@ app.delete('collection/:collectionName/:id', (request, response, next) => {
     )
 })
 
-app.listen(3000, ()=> {
+app.listen(process.env.PORT ||3000, ()=> {
     console.log("express server is running at local host 3000")
 })
