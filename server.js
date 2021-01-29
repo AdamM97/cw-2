@@ -39,7 +39,7 @@ app.get("/collection/:collectionName", (request, response, next) => {
     })
 })
 
-// add an object
+// this is to add an object
 app.post('/collection/:collectionName', (request, response, next) => {
     request.collection.insertMany(request.body, (e, results) => {
         console.log('insert', request.body)
