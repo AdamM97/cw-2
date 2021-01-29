@@ -69,7 +69,7 @@ app.put("/collection/:collectionName/:id", (request, response, next) => {
         }
     )
 })
-// delete an object
+// this will delete an object
 app.delete('collection/:collectionName/:id', (request, response, next) => {
     request.collection.deleteOne(
         {_id: ObjectID(request.params.id)},
