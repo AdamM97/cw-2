@@ -21,7 +21,7 @@ app.use(logger);
 
 app.use(express.static('frontend'))
 
-//get collection name
+//used to get collection name
 app.param("collectionName", (request, response, next, collectionName) => {
     request.collection = db.collection(collectionName)
     return next()
