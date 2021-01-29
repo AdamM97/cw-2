@@ -1,3 +1,5 @@
+//this will log info 
+
 let Logger = (req, res, next) => {
     let current_datetime = new Date(); // Date
     let formatted_date =
