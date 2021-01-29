@@ -47,7 +47,7 @@ app.post('/collection/:collectionName', (request, response, next) => {
         response.send(results.ops)
     })
 })
-// retrieve object via mongodb ID
+// this is to retrieve object via mongodb ID
 const ObjectID = require ('mongodb').ObjectID;
 app.get('/collection/:collectionName/:id', (request, response, next) => {
     request.collection.findOne({_id: new ObjectID(request.params.id) }, (e, result) => {
