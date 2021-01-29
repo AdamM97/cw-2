@@ -1,0 +1,149 @@
+{
+	"info": {
+		"_postman_id": "6cbb7410-cf1d-489a-a5ce-ae63521e7515",
+		"name": "demo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "root get request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get all the products ",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/collection/products",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"collection",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add a new product",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":1010,\r\n    \"title\": \"new product\",\r\n    \"price\": 99\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/collection/products",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"collection",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get specific product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/collection/products/60105c841a44fa62704082f8",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"collection",
+						"products",
+						"60105c841a44fa62704082f8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "put to change field",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"price\":35\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/collection/products/60105c841a44fa62704082f8",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"collection",
+						"products",
+						"60105c841a44fa62704082f8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete a product",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"msg\":\"success\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/collection/products/601177020ffa1116e47260fa",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"collection",
+						"products",
+						"601177020ffa1116e47260fa"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
