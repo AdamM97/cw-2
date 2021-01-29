@@ -164,6 +164,7 @@
                 this.getProducts()
             },
             methods: {
+                //method updated for getting products/lessons
                 getProducts(){
                     fetch('/collection/products')
                     .then(response => response.json())
@@ -189,6 +190,7 @@
                     }
                     updateInv.forEach(pr => {
                         console.log(pr)
+                        // fetch to get the collection and products
                         promises.push(
                             fetch(`/collection/products/${pr.id}` , {
                             method: 'PUT',
