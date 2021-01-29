@@ -1,0 +1,8 @@
+git hub repository
+https://github.com/AdamM97/cw-2.git
+
+github front end
+https://github.com/AdamM97/cw-2/tree/master/frontend
+
+heroku routes
+https://cst3145-demon.herokuapp.com/collection/products

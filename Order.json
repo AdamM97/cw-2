@@ -1,0 +1,895 @@
+[{
+  "_id": {
+    "$oid": "6011cc571a44fa62704082fc"
+  },
+  "les_id": 101,
+  "name": "Adam Maj",
+  "number": "078452931",
+  "space": 7
+},{
+  "_id": {
+    "$oid": "6011cccb1a44fa62704082fd"
+  },
+  "les_id": 102,
+  "name": "James Mac",
+  "number": "07824521723",
+  "space": 5
+},{
+  "_id": {
+    "$oid": "6011cd381a44fa62704082fe"
+  },
+  "les_id": 103,
+  "name": "Bob D",
+  "number": "07843256931",
+  "space": 2
+},{
+  "_id": {
+    "$oid": "6011cd581a44fa62704082ff"
+  },
+  "les_id": 104,
+  "name": "Dave L",
+  "number": "07095290131",
+  "space": 12
+},{
+  "_id": {
+    "$oid": "6011cd701a44fa6270408300"
+  },
+  "les_id": 105,
+  "name": "Bella k",
+  "number": "07765293771",
+  "space": 9
+},{
+  "_id": {
+    "$oid": "6011cd8f1a44fa6270408301"
+  },
+  "les_id": 106,
+  "name": "Danny D",
+  "number": "07807430211",
+  "space": 20
+},{
+  "_id": {
+    "$oid": "6011cdc11a44fa6270408302"
+  },
+  "les_id": 107,
+  "name": "Max p",
+  "number": "07882640231",
+  "space": 11
+},{
+  "_id": {
+    "$oid": "6011ce1d1a44fa6270408303"
+  },
+  "les_id": 108,
+  "name": "Lara c",
+  "number": "07931711882",
+  "space": 20
+},{
+  "_id": {
+    "$oid": "6011ce3c1a44fa6270408304"
+  },
+  "les_id": 109,
+  "name": "Miles m,",
+  "number": "07199537872",
+  "space": 7
+},{
+  "_id": {
+    "$oid": "6011ce581a44fa6270408305"
+  },
+  "les_id": 110,
+  "name": "Fenyx J",
+  "number": "07310900082",
+  "space": 15
+},{
+  "_id": {
+    "$oid": "6012fe7d638a671c84b0283e"
+  },
+  "firstName": "d42342",
+  "lastName": "rwr",
+  "address": "rwrwdd",
+  "phone": 7879787,
+  "city": "werw",
+  "borough": "Barnet",
+  "postCode": "rwer"
+},{
+  "_id": {
+    "$oid": "6013000517274a2a743dfa3f"
+  },
+  "les_id": 1006,
+  "space": 0,
+  "firstName": "dd",
+  "lastName": "dd",
+  "address": "213",
+  "phone": 877897,
+  "city": "sdded",
+  "borough": "Brent",
+  "postCode": "3224"
+},{
+  "_id": {
+    "$oid": "6013000517274a2a743dfa40"
+  },
+  "les_id": 1001,
+  "space": 0,
+  "firstName": "dd",
+  "lastName": "dd",
+  "address": "213",
+  "phone": 877897,
+  "city": "sdded",
+  "borough": "Brent",
+  "postCode": "3224"
+},{
+  "_id": {
+    "$oid": "601300702a1d9f5674d7efac"
+  },
+  "les_id": 1006,
+  "space": 0,
+  "firstName": "332",
+  "lastName": "3223",
+  "address": "233",
+  "phone": 323,
+  "city": "233",
+  "borough": "Brent",
+  "postCode": "323"
+},{
+  "_id": {
+    "$oid": "601300702a1d9f5674d7efad"
+  },
+  "les_id": 1003,
+  "space": 0,
+  "firstName": "332",
+  "lastName": "3223",
+  "address": "233",
+  "phone": 323,
+  "city": "233",
+  "borough": "Brent",
+  "postCode": "323"
+},{
+  "_id": {
+    "$oid": "601300702a1d9f5674d7efae"
+  },
+  "les_id": 1001,
+  "space": 0,
+  "firstName": "332",
+  "lastName": "3223",
+  "address": "233",
+  "phone": 323,
+  "city": "233",
+  "borough": "Brent",
+  "postCode": "323"
+},{
+  "_id": {
+    "$oid": "6013065e60fbf23478ec1f61"
+  },
+  "les_id": 1006,
+  "space": 0,
+  "firstName": "wewe",
+  "lastName": "eqwwe",
+  "address": "ewwqe",
+  "phone": 3443234,
+  "city": "3424",
+  "borough": "Brent",
+  "postCode": "34234243"
+},{
+  "_id": {
+    "$oid": "6013065e60fbf23478ec1f62"
+  },
+  "les_id": 1001,
+  "space": 0,
+  "firstName": "wewe",
+  "lastName": "eqwwe",
+  "address": "ewwqe",
+  "phone": 3443234,
+  "city": "3424",
+  "borough": "Brent",
+  "postCode": "34234243"
+},{
+  "_id": {
+    "$oid": "6013078460fbf23478ec1f63"
+  },
+  "les_id": 1006,
+  "space": 0,
+  "firstName": "wewe",
+  "lastName": "eqwwe",
+  "address": "ewwqe",
+  "phone": 3443234,
+  "city": "3424",
+  "borough": "Brent",
+  "postCode": "34234243"
+},{
+  "_id": {
+    "$oid": "6013078460fbf23478ec1f64"
+  },
+  "les_id": 1001,
+  "space": 0,
+  "firstName": "wewe",
+  "lastName": "eqwwe",
+  "address": "ewwqe",
+  "phone": 3443234,
+  "city": "3424",
+  "borough": "Brent",
+  "postCode": "34234243"
+},{
+  "_id": {
+    "$oid": "60130804491da137b4708ea0"
+  },
+  "les_id": 1006,
+  "space": 0,
+  "firstName": "wewe",
+  "lastName": "eqwwe",
+  "address": "ewwqe",
+  "phone": 3443234,
+  "city": "3424",
+  "borough": "Brent",
+  "postCode": "34234243"
+},{
+  "_id": {
+    "$oid": "60130804491da137b4708ea1"
+  },
+  "les_id": 1001,
+  "space": 0,
+  "firstName": "wewe",
+  "lastName": "eqwwe",
+  "address": "ewwqe",
+  "phone": 3443234,
+  "city": "3424",
+  "borough": "Brent",
+  "postCode": "34234243"
+},{
+  "_id": {
+    "$oid": "60130846491da137b4708ea2"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "eww",
+  "lastName": "wee",
+  "address": "weewwe",
+  "phone": 32233223,
+  "city": "233223",
+  "borough": "Barnet",
+  "postCode": "3232323"
+},{
+  "_id": {
+    "$oid": "60130846491da137b4708ea3"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "eww",
+  "lastName": "wee",
+  "address": "weewwe",
+  "phone": 32233223,
+  "city": "233223",
+  "borough": "Barnet",
+  "postCode": "3232323"
+},{
+  "_id": {
+    "$oid": "60130846491da137b4708ea4"
+  },
+  "les_id": 1003,
+  "space": 2,
+  "firstName": "eww",
+  "lastName": "wee",
+  "address": "weewwe",
+  "phone": 32233223,
+  "city": "233223",
+  "borough": "Barnet",
+  "postCode": "3232323"
+},{
+  "_id": {
+    "$oid": "60130ad3491da137b4708ea5"
+  },
+  "les_id": 1006,
+  "space": 4,
+  "firstName": "ww",
+  "lastName": "2323",
+  "address": "323123",
+  "phone": 43243,
+  "city": "fsfd",
+  "borough": "Brent",
+  "postCode": "32432"
+},{
+  "_id": {
+    "$oid": "60130ad3491da137b4708ea6"
+  },
+  "les_id": 1001,
+  "space": 3,
+  "firstName": "ww",
+  "lastName": "2323",
+  "address": "323123",
+  "phone": 43243,
+  "city": "fsfd",
+  "borough": "Brent",
+  "postCode": "32432"
+},{
+  "_id": {
+    "$oid": "60130ad3491da137b4708ea7"
+  },
+  "les_id": 1003,
+  "space": 2,
+  "firstName": "ww",
+  "lastName": "2323",
+  "address": "323123",
+  "phone": 43243,
+  "city": "fsfd",
+  "borough": "Brent",
+  "postCode": "32432"
+},{
+  "_id": {
+    "$oid": "60130d3fbff75b48fc1efb1d"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "22",
+  "lastName": "32123",
+  "address": "132",
+  "phone": 13231,
+  "city": "321232",
+  "borough": "Islington",
+  "postCode": "31232"
+},{
+  "_id": {
+    "$oid": "60130d3fbff75b48fc1efb1e"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "22",
+  "lastName": "32123",
+  "address": "132",
+  "phone": 13231,
+  "city": "321232",
+  "borough": "Islington",
+  "postCode": "31232"
+},{
+  "_id": {
+    "$oid": "60130e3b98231d38d0ae37a6"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "213",
+  "lastName": "3123",
+  "address": "3123",
+  "phone": 321233,
+  "city": "13223",
+  "borough": "Middlsex",
+  "postCode": "32123"
+},{
+  "_id": {
+    "$oid": "60130e3b98231d38d0ae37a7"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "213",
+  "lastName": "3123",
+  "address": "3123",
+  "phone": 321233,
+  "city": "13223",
+  "borough": "Middlsex",
+  "postCode": "32123"
+},{
+  "_id": {
+    "$oid": "601310e698231d38d0ae37a8"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "324",
+  "lastName": "4324",
+  "address": "4324",
+  "phone": 4324,
+  "city": "4324",
+  "borough": "Barnet",
+  "postCode": "4234"
+},{
+  "_id": {
+    "$oid": "601310e698231d38d0ae37a9"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "324",
+  "lastName": "4324",
+  "address": "4324",
+  "phone": 4324,
+  "city": "4324",
+  "borough": "Barnet",
+  "postCode": "4234"
+},{
+  "_id": {
+    "$oid": "6013113d98231d38d0ae37aa"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "234",
+  "lastName": "24332",
+  "address": "423",
+  "phone": 434,
+  "city": "434",
+  "borough": "Barnet",
+  "postCode": "434"
+},{
+  "_id": {
+    "$oid": "6013113d98231d38d0ae37ab"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "234",
+  "lastName": "24332",
+  "address": "423",
+  "phone": 434,
+  "city": "434",
+  "borough": "Barnet",
+  "postCode": "434"
+},{
+  "_id": {
+    "$oid": "601311c798231d38d0ae37ac"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "23",
+  "lastName": "434",
+  "address": "434",
+  "phone": 3424,
+  "city": "3442",
+  "borough": "Brent",
+  "postCode": "3424"
+},{
+  "_id": {
+    "$oid": "601311c798231d38d0ae37ad"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "23",
+  "lastName": "434",
+  "address": "434",
+  "phone": 3424,
+  "city": "3442",
+  "borough": "Brent",
+  "postCode": "3424"
+},{
+  "_id": {
+    "$oid": "6013120c98231d38d0ae37ae"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "34234",
+  "lastName": "324",
+  "address": "4324",
+  "phone": 4324,
+  "city": "4234",
+  "borough": "Brent",
+  "postCode": "4234"
+},{
+  "_id": {
+    "$oid": "6013120c98231d38d0ae37af"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "34234",
+  "lastName": "324",
+  "address": "4324",
+  "phone": 4324,
+  "city": "4234",
+  "borough": "Brent",
+  "postCode": "4234"
+},{
+  "_id": {
+    "$oid": "6013151e4d8672467008b42b"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "23",
+  "lastName": "12323",
+  "address": "3123",
+  "phone": 21231,
+  "city": "3213",
+  "borough": "Islington",
+  "postCode": "321"
+},{
+  "_id": {
+    "$oid": "6013151e4d8672467008b42c"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "23",
+  "lastName": "12323",
+  "address": "3123",
+  "phone": 21231,
+  "city": "3213",
+  "borough": "Islington",
+  "postCode": "321"
+},{
+  "_id": {
+    "$oid": "6013159429974a46a0d9490d"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "34344344334",
+  "lastName": "4343",
+  "address": "3444",
+  "phone": 343434,
+  "city": "343434",
+  "borough": "Brent",
+  "postCode": "343434"
+},{
+  "_id": {
+    "$oid": "6013159429974a46a0d9490e"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "34344344334",
+  "lastName": "4343",
+  "address": "3444",
+  "phone": 343434,
+  "city": "343434",
+  "borough": "Brent",
+  "postCode": "343434"
+},{
+  "_id": {
+    "$oid": "601315c929974a46a0d9490f"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "344",
+  "lastName": "3434",
+  "address": "344",
+  "phone": 3444334,
+  "city": "343434",
+  "borough": "Barnet",
+  "postCode": "433434"
+},{
+  "_id": {
+    "$oid": "601315c929974a46a0d94910"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "344",
+  "lastName": "3434",
+  "address": "344",
+  "phone": 3444334,
+  "city": "343434",
+  "borough": "Barnet",
+  "postCode": "433434"
+},{
+  "_id": {
+    "$oid": "6013161b9de2271a30231ca8"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "554",
+  "lastName": "454545",
+  "address": "4545",
+  "phone": 545454,
+  "city": "544545",
+  "borough": "Middlsex",
+  "postCode": "454545"
+},{
+  "_id": {
+    "$oid": "6013161b9de2271a30231ca9"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "554",
+  "lastName": "454545",
+  "address": "4545",
+  "phone": 545454,
+  "city": "544545",
+  "borough": "Middlsex",
+  "postCode": "454545"
+},{
+  "_id": {
+    "$oid": "601316c1e6b1f7556434fde7"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "2331",
+  "lastName": "312323",
+  "address": "3123",
+  "phone": 3123,
+  "city": "31231",
+  "borough": "Islington",
+  "postCode": "312321"
+},{
+  "_id": {
+    "$oid": "601316c1e6b1f7556434fde8"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "2331",
+  "lastName": "312323",
+  "address": "3123",
+  "phone": 3123,
+  "city": "31231",
+  "borough": "Islington",
+  "postCode": "312321"
+},{
+  "_id": {
+    "$oid": "60131731a41ca318081a6e4e"
+  },
+  "les_id": 1006,
+  "space": 3,
+  "firstName": "iiyiy",
+  "lastName": "jkljlkjlkj",
+  "address": "jkljljklj",
+  "phone": 89809809,
+  "city": "jljljlkj",
+  "borough": "Barnet",
+  "postCode": "lll;kl;k"
+},{
+  "_id": {
+    "$oid": "60131731a41ca318081a6e4f"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "iiyiy",
+  "lastName": "jkljlkjlkj",
+  "address": "jkljljklj",
+  "phone": 89809809,
+  "city": "jljljlkj",
+  "borough": "Barnet",
+  "postCode": "lll;kl;k"
+},{
+  "_id": {
+    "$oid": "601317bf69a28b3ab0b75b10"
+  },
+  "les_id": 1006,
+  "space": 3,
+  "firstName": "iiyiy",
+  "lastName": "jkljlkjlkj",
+  "address": "jkljljklj",
+  "phone": 89809809,
+  "city": "jljljlkj",
+  "borough": "Barnet",
+  "postCode": "lll;kl;k"
+},{
+  "_id": {
+    "$oid": "601317bf69a28b3ab0b75b11"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "iiyiy",
+  "lastName": "jkljlkjlkj",
+  "address": "jkljljklj",
+  "phone": 89809809,
+  "city": "jljljlkj",
+  "borough": "Barnet",
+  "postCode": "lll;kl;k"
+},{
+  "_id": {
+    "$oid": "601318130b548432c81e0000"
+  },
+  "les_id": 1006,
+  "space": 3,
+  "firstName": "iiyiy",
+  "lastName": "jkljlkjlkj",
+  "address": "jkljljklj",
+  "phone": 89809809,
+  "city": "jljljlkj",
+  "borough": "Barnet",
+  "postCode": "lll;kl;k"
+},{
+  "_id": {
+    "$oid": "601318130b548432c81e0001"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "iiyiy",
+  "lastName": "jkljlkjlkj",
+  "address": "jkljljklj",
+  "phone": 89809809,
+  "city": "jljljlkj",
+  "borough": "Barnet",
+  "postCode": "lll;kl;k"
+},{
+  "_id": {
+    "$oid": "601318d8db02790808a3c86b"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "3434",
+  "lastName": "4434",
+  "address": "4343",
+  "phone": 434343,
+  "city": "434343",
+  "borough": "Middlsex",
+  "postCode": "433443"
+},{
+  "_id": {
+    "$oid": "601318d8db02790808a3c86c"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "3434",
+  "lastName": "4434",
+  "address": "4343",
+  "phone": 434343,
+  "city": "434343",
+  "borough": "Middlsex",
+  "postCode": "433443"
+},{
+  "_id": {
+    "$oid": "601319285d006b0af03239c6"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "3434",
+  "lastName": "4434",
+  "address": "4343",
+  "phone": 434343,
+  "city": "434343",
+  "borough": "Middlsex",
+  "postCode": "433443"
+},{
+  "_id": {
+    "$oid": "601319285d006b0af03239c7"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "3434",
+  "lastName": "4434",
+  "address": "4343",
+  "phone": 434343,
+  "city": "434343",
+  "borough": "Middlsex",
+  "postCode": "433443"
+},{
+  "_id": {
+    "$oid": "60131b18b04ec2407c5d03be"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "60131b18b04ec2407c5d03bf"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "60131b59da5d334d28ccd67e"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "60131b59da5d334d28ccd67f"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "60131ba2ddcb1c48ecedc18d"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "60131ba2ddcb1c48ecedc18e"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "60131bf9424c571bb04bbcea"
+  },
+  "les_id": 1006,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "60131bf9424c571bb04bbceb"
+  },
+  "les_id": 1001,
+  "space": 2,
+  "firstName": "46454",
+  "lastName": "54654",
+  "address": "5456465",
+  "phone": 5456465,
+  "city": "456465",
+  "borough": "Barnet",
+  "postCode": "456465"
+},{
+  "_id": {
+    "$oid": "6013649879c9bf276c853c85"
+  }
+},{
+  "_id": {
+    "$oid": "601364a779c9bf276c853c86"
+  }
+},{
+  "_id": {
+    "$oid": "6013650779c9bf276c853c87"
+  },
+  "firstName": "oiuoio",
+  "lastName": "iuoiuo",
+  "address": "iuoiuo",
+  "phone": 798798,
+  "city": "ouou9",
+  "borough": "",
+  "postCode": "987987"
+},{
+  "_id": {
+    "$oid": "6013659d79c9bf276c853c88"
+  },
+  "firstName": "oiuoio",
+  "lastName": "iuoiuo",
+  "address": "iuoiuo",
+  "phone": 798798,
+  "city": "ouou9",
+  "borough": "",
+  "postCode": "987987"
+},{
+  "_id": {
+    "$oid": "60136c6279c9bf276c853c89"
+  },
+  "firstName": "8798",
+  "space": [
+    3,
+    3
+  ],
+  "les_id": [
+    1006,
+    1008
+  ],
+  "lastName": "98798",
+  "address": "98798",
+  "phone": 98798,
+  "city": "987",
+  "borough": "",
+  "postCode": "lkjlk"
+},{
+  "_id": {
+    "$oid": "6013c2a19cbd95001540a922"
+  },
+  "les_id": 1005,
+  "space": 1,
+  "firstName": "Adam",
+  "lastName": "Majka",
+  "address": "4 Kinloss Gardens",
+  "phone": 7880207724,
+  "city": "LONDON",
+  "borough": "Islington",
+  "postCode": "N33DU"
+}]

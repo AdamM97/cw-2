@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f8"
+  },
+  "id": 1008,
+  "title": "History",
+  "description": " A fun and interactive history lesson",
+  "location": "Room 4, History centre, N3",
+  "price": 35,
+  "image": "pics/his.png",
+  "availableInventory": 20,
+  "rating": 3
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f6"
+  },
+  "id": 1006,
+  "title": "Computer Science",
+  "description": " A fun and interactive computer science lesson",
+  "location": "205 kings road, N4",
+  "price": 50,
+  "image": "pics/comp.png",
+  "availableInventory": 10,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f7"
+  },
+  "id": 1007,
+  "title": "Art",
+  "description": " A fun and interactive art lesson",
+  "location": "26 brown street, N3",
+  "price": 20,
+  "image": "pics/art.png",
+  "availableInventory": 8,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082fa"
+  },
+  "id": 1010,
+  "title": "Drama Workshop",
+  "description": " A fun and interactive drama lesson",
+  "location": "606 long lane,N3",
+  "price": 15,
+  "image": "pics/drama.png",
+  "availableInventory": 50,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f2"
+  },
+  "id": 1002,
+  "title": "English",
+  "description": " A fun and interactive english lesson",
+  "location": "31 Amos lane, N4",
+  "price": 30,
+  "image": "pics/eng.png",
+  "availableInventory": 15,
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f9"
+  },
+  "id": 1009,
+  "title": "Spanish",
+  "description": " A fun and interactive spanish lesson",
+  "location": "89 smithing lane, N4",
+  "price": 30,
+  "image": "pics/span.png",
+  "availableInventory": 25,
+  "rating": 2
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f4"
+  },
+  "id": 1004,
+  "title": "Chemistry",
+  "description": " A fun and interactive chemistry lesson",
+  "location": "29 viking road, N3",
+  "price": 35,
+  "image": "pics/chem.png",
+  "availableInventory": 20,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f3"
+  },
+  "id": 1003,
+  "title": "Biology",
+  "description": " A fun and interactive biology lesson",
+  "location": "5 james lane, N2",
+  "price": 35,
+  "image": "pics/bio.png",
+  "availableInventory": 20,
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "60105c841a44fa62704082f5"
+  },
+  "id": 1005,
+  "title": "Physics",
+  "description": " A fun and interactive physics lesson",
+  "location": "106 blackburn alley, N2",
+  "price": 35,
+  "image": "pics/phys.png",
+  "availableInventory": 19,
+  "rating": 4
+}]
