@@ -55,7 +55,7 @@ app.get('/collection/:collectionName/:id', (request, response, next) => {
         response.send(result)
     })
 })
-// modify object by ID
+// this will modify object by ID
 app.put("/collection/:collectionName/:id", (request, response, next) => {
     console.log(request.body , request.params.id)
     request.collection.updateOne(
