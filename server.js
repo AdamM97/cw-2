@@ -14,7 +14,7 @@ mongoClient.connect("mongodb+srv://MongoDbUser:DbUser1@cw2.8lvlz.mongodb.net/", 
 //parse request params
 app.use(express.json());
 
-//Logs all request
+// this Logs all request
 app.use(logger);
 
 // Public files and folders
