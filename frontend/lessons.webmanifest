@@ -1,0 +1,20 @@
+{
+    "name": "Lessons for you",
+    "short_name": "Lessons",
+    "description": "online lessons booking",
+    "icons": [
+        {
+            "src":"pics/icon1-512.png",
+            "sizes": "32x32",
+            "type": "image/png"   
+        },
+        {
+            "src":"pics/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
